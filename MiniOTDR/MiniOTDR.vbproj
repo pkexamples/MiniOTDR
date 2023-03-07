@@ -99,9 +99,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="MiniOTDRForm.dje-NE.resx">
-      <DependentUpon>MiniOTDRForm.vb</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="MiniOTDRForm.resx">
       <DependentUpon>MiniOTDRForm.vb</DependentUpon>
     </EmbeddedResource>
